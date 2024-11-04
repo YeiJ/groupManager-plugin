@@ -26,7 +26,7 @@
 
 ```bash
 # 切换到 DreamSu Bot框架项目目录
-cd /DreamSu
+cd DreamSu
 
 # 克隆插件到指定目录
 git clone https://github.com/YeiJ/groupManager-plugin.git plugins/p_groupManager/
